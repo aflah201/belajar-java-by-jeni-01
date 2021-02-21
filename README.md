@@ -30,7 +30,9 @@ Source Code terdapat beberapa Package antara lain :
   - D_LatihanJOption.java
 </details>
 
-## **aflahbelajarjava3**
+<details>
+  <summary>aflahbelajarjava3</summary>
+
   - A_StatementIf.java
   - B_StatementIfElse.java
   - C_StatementIfElseIf.java
@@ -47,25 +49,40 @@ Source Code terdapat beberapa Package antara lain :
   - N_MembacaBilangan.java
   - O_CetakSeratusKali.java
   - P_HitungPerpangkatan.java
+</details>
 
-## **aflahbelajarjava4**
+<details>
+  <summary>aflahbelajarjava4</summary>
+
   - A_ArraySample.java
   - B_ArrayMultiDimensi.java
   - C_LatihanBukuAlamat.java
-  
-## **aflahbelajarjava5**
+</details>
+
+<details>
+  <summary>aflahbelajarjava5</summary>
+
   - A_CommandLineExample.java
   - B_LatihanCommandLine.java
+</details>
+  
+<details>
+  <summary>aflahbelajarjava6</summary>
 
-## **aflahbelajarjava6**
   - A_PassByValue.java
   - B_PassByReference.java
-  
-## **aflahbelajarjava7**
+</details>
+
+<details>
+  <summary>aflahbelajarjava7</summary>
+
   - StudentRecord.java
   - StudentRecordExample.java
+</details>
 
-## **aflahbelajarjava8**
+<details>
+  <summary>aflahbelajarjava8</summary>
+
   - A_Person.java
   - B_Student.java
   - C_Employee.java
@@ -77,7 +94,12 @@ Source Code terdapat beberapa Package antara lain :
   - I_LatihanStudent.java
   - J_LatihanNilai.java
   - Shape.java
-  
-## **aflahbelajarjava9**
+</details>
+
+<details>
+  <summary>aflahbelajarjava9</summary>
+
   - ExceptionHandling.java
-  - TestException,java
+  - TestException.java
+</details>
+
