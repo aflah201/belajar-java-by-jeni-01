@@ -103,3 +103,5 @@ Source Code terdapat beberapa Package antara lain :
   - TestException.java
 </details>
 
+## Materi Belajar Java By Jeni
+[Link Materi Belajar](https://drive.google.com/drive/folders/1t3OOkWo3L3880Qk41nhQgmCGPsw2pQIh?usp=sharing)
