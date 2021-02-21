@@ -2,7 +2,9 @@
 
 Source Code terdapat beberapa Package antara lain :
 
-## **aflahbelajarjava1**
+<details>
+  <summary>aflahbelajarjava1</summary>
+  
   - A_HelloWorld.java
   - B_MenampilkanVariable.java
   - C_OperatorAritmatika.java
@@ -17,12 +19,16 @@ Source Code terdapat beberapa Package antara lain :
   - L_CariNilaiRataRata.java
   - M_OperatorPecedence.java
   - N_MencariNilaiTerbesar.java
-  
-## **aflahbelajarjava2**
+</details>
+
+<details>
+  <summary>aflahbelajarjava2</summary>
+
   - A_MendapatkanInputKeyboard.java
   - B_BelajarJOption.java
   - C_LatihanInputKeyboard.java
   - D_LatihanJOption.java
+</details>
 
 ## **aflahbelajarjava3**
   - A_StatementIf.java
